@@ -19,4 +19,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=stephanardy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # Projects
-[![](https://github-readme-stats.vercel.app/api/pin/?username=stephanardy&repo=simple-todo-ext)](https://github.com/StephanArdy/simple-todo-ext)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=stephanardy&repo=simple-todo-ext&theme=tokyonight)](https://github.com/StephanArdy/simple-todo-ext)
