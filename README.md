@@ -1,4 +1,4 @@
-<!-- Level 2: Using a README generator GPRM (https://gprm.itsvg.in) -->
+<!-- Using a README generator GPRM (https://gprm.itsvg.in) -->
 
 # 👋 Hi, I'm Stephan!
 👩🏻‍💻 Web Developer
@@ -16,7 +16,18 @@
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=stephanardy&show_icons=true&theme=transparent&rank_icon=percentile&include_all_commits=true&count_private=true)<br/>
-![](https://github-profile-trophy.vercel.app/?username=stephanardy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-streak-stats.herokuapp.com/?user=stephanardy&theme=dark&hide_border=false)<br/>
+![](https://github-profile-trophy.vercel.app/?username=stephanardy&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanardy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 # Projects
 [![](https://github-readme-stats.vercel.app/api/pin/?username=stephanardy&repo=simple-todo-ext&theme=tokyonight)](https://github.com/StephanArdy/simple-todo-ext)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=stephanardy&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
