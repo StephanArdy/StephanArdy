@@ -22,7 +22,7 @@
 
 
 # Projects
-[![](https://github-readme-stats.vercel.app/api/pin/?username=stephanardy&repo=simple-todo-ext&theme=tokyonight)](https://github.com/StephanArdy/simple-todo-ext)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=stephanardy&repo=simple-todo-ext&theme=tokyonight)](https://github.com/StephanArdy/simple-todo-ext)<br/>
 [![](https://github-readme-stats.vercel.app/api/pin/?username=stephanardy&repo=go-chat&theme=tokyonight)](https://github.com/StephanArdy/go-chat)
 
 ### ✍️ Random Dev Quote
