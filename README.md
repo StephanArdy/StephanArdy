@@ -1,7 +1,7 @@
 <!-- Using a README generator GPRM (https://gprm.itsvg.in) -->
 
 # 👋 Hi, I'm Stephan!
-👩🏻‍💻 iOS Developer | Back-End Developer
+👩🏻‍💻 iOS Developer | Back-End Developer<br/>
 📚 Student at Apple Developer Academy & BINUS University
 
 # 💻 Tech Stack
