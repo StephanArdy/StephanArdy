@@ -1,7 +1,8 @@
 <!-- Using a README generator GPRM (https://gprm.itsvg.in) -->
 
 # 👋 Hi, I'm Stephan!
-👩🏻‍💻 Web Developer
+👩🏻‍💻 iOS Developer | Back-End Developer
+📚 Student at Apple Developer Academy & BINUS University
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
