@@ -23,9 +23,10 @@
 
 
 # Projects
-[![](https://github-readme-stats.vercel.app/api/pin/?username=stephanardy&repo=simple-todo-ext&theme=tokyonight)](https://github.com/StephanArdy/simple-todo-ext)<br/>
-[![](https://github-readme-stats.vercel.app/api/pin/?username=stephanardy&repo=go-chat&theme=tokyonight)](https://github.com/StephanArdy/go-chat)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=stephanardy&repo=chat-ui&theme=tokyonight)](https://github.com/StephanArdy/chat-ui)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=samsamtech-bali&repo=quiddy&theme=tokyonight)](https://github.com/samsamtech-bali/quiddy)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=I90Rb&repo=Sunscreen&theme=tokyonight)](https://github.com/StephanArdy/simple-todo-ext)<br/>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=CH2-G6-ARKit&repo=OneTreasure&theme=tokyonight)](https://github.com/CH2-G6-ARKit/OneTreasure)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ESG-AI&repo=esg-dashboard&theme=tokyonight)](https://github.com/ESG-AI/esg-dashboard)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
