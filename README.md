@@ -10,7 +10,9 @@
 ### 🧑🏻‍💻 Ongoing Project
 - reSPF: scientific sunscreen reapplication timer app
 - Quiby: iOS smoking cessation and habit-breaking app
-
+  
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanardy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
