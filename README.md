@@ -4,10 +4,10 @@
 👩🏻‍💻 iOS Developer | Back-End Developer<br/>
 📚 Student at Apple Developer Academy & BINUS University
 
-# 🚀 Published App
+### 🚀 Published App
 - One Treasure: https://apps.apple.com/us/app/one-treasure/id6754788146
 
-# 🧑🏻‍💻 Ongoing Project
+### 🧑🏻‍💻 Ongoing Project
 - reSPF: scientific sunscreen reapplication timer app
 - Quiby: iOS smoking cessation and habit-breaking app
 
