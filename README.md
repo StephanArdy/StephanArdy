@@ -13,7 +13,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
 
 
-> I’m a **builder shipping iOS apps end-to-end** — from idea, design, and architecture to production release.  
+> I’m **shipping iOS apps end-to-end** — from idea, design, and architecture to production release.  
 > I enjoy working close to the product, blending **clean SwiftUI**, **Apple frameworks**, and **pragmatic backend systems** to turn ideas into things people actually use.
 
 🌐 **https://www.stephanardy.engineer** — Portfolio website showcasing my projects.
