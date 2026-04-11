@@ -25,7 +25,7 @@
 
 🗺 **[One Treasure](https://apps.apple.com/us/app/one-treasure/id6754788146)** - An interactive AR game built with **RealityKit** and **AVFoundation**, combining exploration, riddles, and immersive spatial experiences.
 
-🧴 **reSPF** - A science-based timer that reminds you when to reapply your sunscreen — designed around real UV exposure behavior, not arbitrary intervals.
+🧴 **[reSPF](https://apps.apple.com/us/app/respf/id6761813784)** - A science-based timer that reminds you when to reapply your sunscreen — designed around real UV exposure behavior, not arbitrary intervals.
 
 🚭 **Quiby** - An app that helps people quit smoking by leveraging a **buddy system**, focusing on accountability, encouragement, and shared progress.
 
