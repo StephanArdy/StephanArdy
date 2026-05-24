@@ -13,7 +13,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
 
 
-> I’m **shipping productss end-to-end** — from idea, design, and architecture to production release.  
+> I’m **shipping products end-to-end** — from idea, design, and architecture to production release.  
 
 🌐 **https://www.stephanardy.engineer** — Portfolio website showcasing my projects.
 
